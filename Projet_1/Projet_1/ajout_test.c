@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello");
-	printf(" World !");
+	printf("Ceci est un test Git");
 	return 0;
 }
